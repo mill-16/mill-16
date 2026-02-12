@@ -1,14 +1,16 @@
 🇺🇸
-- My name is Mill
+- Name: Mill
 - Pronouns: He/Him
-- I'm in the 3rd semester of the Computer Science course at Uniesp
-- I'm interested in front-end development, systems analysis, and databases
+- Studying: Computer Science - Uniesp (4th semester)
+- I'm interested in: front-end development, software architecture/engineering, DB
+- Languages: Python, Java, Javascript, HTML/CSS, UML
 
 🇧🇷
-- Meu nome é Mill
+- Nome: Mill
 - Pronomes: Ele/Dele
-- Estou no 3º período do curso de Ciências da Computação na Uniesp
-- Tenho interesse nas áreas de front-end, análise de sistemas, e banco de dados
+- Estudando: Ciências da Computação - Uniesp (P4)
+- Tenho interesse em: desenvolvimento front end, arquitetura/engenharia de softwares, DB
+- Linguagens: Python, Java, Javascript, HTML/CSS, UML
 
 <!---
 mill-16/mill-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
